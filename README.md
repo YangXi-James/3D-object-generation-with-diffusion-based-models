@@ -1,8 +1,4 @@
-# ECE-285-DGM-Project
-
-Course project repo for ECE 285 - Deep Generative Models.
-
-Topic: 3D object generation with diffusion-based models.
+#  3D object generation with diffusion-based models
 
 ## Setup
 
